@@ -6,8 +6,8 @@ public class temperatur {
 		
 	public static void main(String[] args)
 		{
-		String formel_f = "°F = °C * 1,8 + 32" ;
-		String formel_c = "°C = (°F - 32) * 5/9" ;
+		// String formel_f = "°F = °C * 1,8 + 32" ;
+		// String formel_c = "°C = (°F - 32) * 5/9" ;
 		double farenheit=0;
 		double celsius=0;
 		double ausgabe_c;
